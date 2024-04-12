@@ -1,0 +1,27 @@
+id;username;email;password;type
+1;marko;dundaetf@gmail.com;P@ssw0rd;positive11
+2;555mar;mar555@mailinator.com;P@ssw0rd;positive12
+3;marmarmarmarmarmarmarmarmarmarmar;mar@mailinator.com;P@ssw0rd;positive13
+4;12345678912345678912345678912;ma@mailinator.com;P@ssw0rd;positive14
+5;;;;negative21
+6;;ma221@mailinator.com;P@ssw0rd;negative221
+7;mark;ma222@mailinator.com;P@ssw0rd;negative222
+8;marmarmarmarmarmarmarmarmarmarmar12;ma223@mailinator.com;P@ssw0rd;negative223
+9;! +;ma224@mailinator.com;P@ssw0rd;negative224
+10;dunda;;P@ssw0rd;negative231
+11;dunda232;du ndaetf@gmail.com;P@ssw0rd;negative232
+12;marko233;dundaetfgmail.com;P@ssw0rd;negative233
+13;marko234;dundaetf@gmailcom;P@ssw0rd;negative234
+14;marko235;dundaetf@g!mail.com;P@ssw0rd;negative235
+15;marko241;marko241@mailinator.com;;negative241
+16;marko242;marko242@mailinator.com;P@ssw0rd;negative242
+17;marko243;marko243@mailinator.com;12345678;negative243
+18;marko244;marko244@mailinator.com;12345678;negative244
+19;marko245;marko245@mailinator.com;1234567;negative245
+20;marko246;marko246@mailinator.com;P@ssw0rd;negative246
+21;marko31;marko31@mailinator.com;P@ssw0rd;negative31
+22;;;;
+23;;;;
+24;;;;
+25;;;;
+26;;;;
